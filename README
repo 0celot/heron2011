@@ -1,0 +1,3 @@
+This is the source code for my 2011 Google AI Challenge entry, titled "Heron". It tries to find a good set of moves against an opponent by using a tabu search. I thought this would make it play the game a bit more like a human, since tabu search involves looking at possible moves one at a time and comparing them to previously examined moves. This didn't perform nearly as well as I'd hoped. I'm not sure if that's because the idea is fundamentally flawed compared to minimax or if my implementation just needed more work. I'm guessing a bit of both.
+
+Bradley Mitchell - 5/29/2012
